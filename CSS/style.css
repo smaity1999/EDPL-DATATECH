@@ -1,0 +1,118 @@
+.center-nav {
+  margin-left: 9rem;
+}
+
+.button-enq {
+  margin-left: 11rem;
+}
+
+.header-text {
+  font-size: 5vmax;
+  margin-top: 4vmax;
+  font-family: 'Montserrat-black', sans-serif;
+  font-weight: bold;
+}
+
+.btn-1:hover {
+  background-position: right center;
+  /* change the direction of the change here */
+}
+
+.btn-1 {
+  background-image: -webkit-gradient(linear, left top, right top, from(#00A8F6), color-stop(51%, #0A5AD2), to(#00A8F6));
+  background-image: linear-gradient(to right, #00A8F6 0%, #0A5AD2 51%, #00A8F6 100%);
+}
+
+.counter-1 {
+  background-color: #407AFF;
+  padding: 15px 0;
+  border-radius: 5px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.counter-2 {
+  background-color: #F76E03;
+  padding: 15px 0;
+  border-radius: 5px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.counter-3 {
+  background-color: #0154F6;
+  padding: 15px 0;
+  border-radius: 5px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.counter-4 {
+  background-color: #EE5B51;
+  padding: 15px 0;
+  border-radius: 5px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.count-title {
+  font-size: 40px;
+  font-weight: normal;
+  margin-top: 10px;
+  margin-bottom: 0;
+  text-align: center;
+  font-family: 'Montserrat-black', sans-serif;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.count-text {
+  font-size: 13px;
+  font-weight: normal;
+  margin-top: 10px;
+  margin-bottom: 0;
+  text-align: center;
+  font-family: 'Montserrat-bold', sans-serif;
+  color: #ffffff;
+  width: bold;
+}
+
+.fa-3x {
+  margin: 0 auto;
+  float: none;
+  display: table;
+  color: #ffffff;
+}
+
+.counter-5 {
+  background-color: #F76E03;
+  width: 60%;
+  border-radius: 5px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.counter-6 {
+  background-color: #F76E03;
+  padding: 15px 0;
+  border-radius: 5px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.counter-7 {
+  background-color: #F76E03;
+  padding: 15px 0;
+  border-radius: 5px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.counter-8 {
+  background-color: #F76E03;
+  padding: 15px 0;
+  border-radius: 5px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+/*# sourceMappingURL=style.css.map */
