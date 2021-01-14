@@ -86,18 +86,23 @@
 
 .counter-5 {
   background-color: #F76E03;
-  width: 60%;
+  width: 65%;
   border-radius: 5px;
-  padding-top: 25px;
-  padding-bottom: 25px;
+  padding: 30px 30px;
+}
+
+@media only screen and (min-width: 600px) {
+  .serve {
+    margin-left: 90px;
+  }
 }
 
 .counter-6 {
   background-color: #F76E03;
-  padding: 15px 0;
+  width: 65%;
   border-radius: 5px;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .counter-7 {
@@ -114,5 +119,12 @@
   border-radius: 5px;
   padding-top: 40px;
   padding-bottom: 40px;
+}
+
+.service {
+  color: #ffffff;
+  position: absolute;
+  right: 7rem;
+  top: 56rem;
 }
 /*# sourceMappingURL=style.css.map */
