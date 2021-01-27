@@ -102,38 +102,3 @@ jQuery(function ($) {
 	$this.countTo(options);
   }
 });
-
-
-
-
-
-// testamonials
-
-$('.items').slick({
-	centerMode: true,
-	centerPadding: '60px',
-	slidesToShow: 3,
-	autoplay: true,
-	autoplaySpeed: 3500,
-	responsive: [
-	  {
-		breakpoint: 768,
-		settings: {
-		  arrows: false,
-		  centerMode: true,
-		  centerPadding: '40px',
-		  slidesToShow: 3
-		}
-	  },
-	  {
-		breakpoint: 480,
-		settings: {
-		  arrows: false,
-		  centerMode: true,
-		  centerPadding: '40px',
-		  slidesToShow: 2
-		}
-	  }
-	]
-  });
-

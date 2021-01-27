@@ -1,0 +1,225 @@
+.header-text {
+    font-size: 5vmax;
+    margin-top: 4vmax;
+    font-family: 'Montserrat-black', sans-serif;
+    font-weight: bold;
+}
+
+.btn-1 {
+    background-image: -webkit-gradient(linear, left top, right top, from(#00A8F6), color-stop(51%, #0A5AD2), to(#00A8F6));
+    background-image: linear-gradient(to right, #00A8F6 0%, #0A5AD2 51%, #00A8F6 100%);
+}
+
+.common {
+    border-radius: 6px;
+    padding: 1.5vh 1vw 1.5vh 1vw;
+    margin: 1vw .5vw 1vw .5vw;
+}
+
+.top-icon {
+    color: #ffffff;
+}
+
+.fa-3x {
+    margin: 0 auto;
+    float: none;
+}
+
+.one {
+    background-color: #407AFF;
+}
+
+.two {
+    background-color: #F76E03;
+}
+
+.three {
+    background-color: #0154F6;
+}
+
+.four {
+    background-color: #EE5B51;
+}
+
+.count-title {
+    font-size: 2.5vh;
+    font-weight: normal;
+    margin-top: 1vh;
+    margin-bottom: 0;
+    text-align: center;
+    font-family: 'Montserrat-black', sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.count-text {
+    font-size: 13px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+    font-family: 'Montserrat-bold', sans-serif;
+    color: #ffffff;
+    width: bold;
+}
+
+.background {
+    width: 100%;
+    height: 34vh;
+    background-image: url('../image/pic SAgar.png');
+    background-size: 100vw auto;
+    background-repeat: no-repeat;
+}
+
+.background_1 {
+    width: 100%;
+    height: 36vh;
+    background-image: url('../image/cctv.PNG');
+    background-size: 100vw auto;
+    background-repeat: no-repeat;
+}
+
+.background_2 {
+    width: 100%;
+    height: 34vh;
+    background-image: url('../image/backup.PNG');
+    background-size: 100vw auto;
+    background-repeat: no-repeat;
+}
+
+.count-title-1 {
+    font-size: 20px;
+    margin-top: 15px;
+    font-family: 'Montserrat-black', sans-serif;
+    color: #000000;
+    font-weight: bold;
+}
+
+.it {
+    text-align: center;
+}
+
+.counter-5 {
+    float: right;
+    background-color: #ffffffff;
+    border-radius: 4px;
+    padding: 3vw 8vw 0.3vw 6vw;
+    margin-right: 3vw;
+    margin-top: 2vh;
+}
+
+.counter-6 {
+    float: right;
+    background-color: #ffffff;
+    border-radius: 4px;
+    margin: 2vh 2vw;
+    padding: 2vh 2vw 2vh 3vw;
+}
+
+.counter-7 {
+    float: left;
+    background-color: #ffffff;
+    border-radius: 4px;
+    padding: 3vh 7vw 1vw 7vw;
+    margin: 2vh 0vw 0vw 3vw;
+}
+
+.counter-8 {
+    float: left;
+    background-color: #ffffff;
+    border-radius: 4px;
+    margin: 2vh 3vw;
+    padding: 2vh 3vw 2vh 4vw;
+}
+
+.team-text {
+    padding-top: 40px;
+}
+
+.column {
+    width: 100%;
+    margin-bottom: 16px;
+    padding: 0 3vw;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.title {
+    color: grey;
+}
+
+.button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
+
+.say-customer {
+	margin-top: 2vh;
+	padding-top: 2.5vh;
+  font-family: 'Poppins', sans-serif;
+  font-size: bold;
+  color: #ffffff;
+  text-align: center;
+}
+
+.connected-customer {
+	margin-top: 2vh;
+	padding-top: 2.5vh;
+  font-family: 'Poppins', sans-serif;
+  font-size: bold;
+  color: #000000;
+  text-align: center;
+}
+
+.items {
+	width: 100%;
+    margin: 0px auto;
+    margin-top: 10px;
+    padding-bottom: 30px;
+}
+
+.feedback {
+	width: max-content;
+    max-width: 70vw;
+}
+
+.column-feed {
+	max-height: 61vh;
+	overflow: auto;
+}
+
+.head-l {
+  font-family: 'Montserrat-black', sans-serif;
+  font-display: uppercase;
+  text-align: center;
+  font-weight: 800;
+  margin-top: 40px;
+}
+
+.para {
+	/*text-align: justify;*/
+    font-size: 18px;
+    line-height: 26px;
+    text-transform: capitalize;
+}
+
+.book-btn {
+    height: 14vh;
+    width: 65vw;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(73 135 255) 0%, rgb(73 135 255) 0%, rgba(0,212,255,1) 85%);
+    color: #ffffff;
+    border-radius: 2px;
+    font-size: 6vw;
+    font-family: 'roboto';
+    font-weight: 700;
+}
